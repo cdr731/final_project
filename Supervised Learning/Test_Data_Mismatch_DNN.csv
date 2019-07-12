@@ -1,0 +1,341 @@
+Prediction,Actual,Filename
+Grape Blue,Apple Red Delicious,fruits-360/Test/Apple Red Delicious/r_282_100.jpg
+Grape Blue,Apple Red Delicious,fruits-360/Test/Apple Red Delicious/r_283_100.jpg
+Pepino,Melon Piel de Sapo,fruits-360/Test/Melon Piel de Sapo/276_100.jpg
+Pepino,Melon Piel de Sapo,fruits-360/Test/Melon Piel de Sapo/274_100.jpg
+Apple Golden 3,Pear,fruits-360/Test/Pear/r_73_100.jpg
+Plum,Potato Red Washed,fruits-360/Test/Potato Red Washed/r2_153_100.jpg
+Onion Red Peeled,Potato Red Washed,fruits-360/Test/Potato Red Washed/r2_161_100.jpg
+Onion Red Peeled,Potato Red Washed,fruits-360/Test/Potato Red Washed/r2_160_100.jpg
+Onion White,Kohlrabi,fruits-360/Test/Kohlrabi/r_133_100.jpg
+Potato White,Kohlrabi,fruits-360/Test/Kohlrabi/r_279_100.jpg
+Potato White,Kohlrabi,fruits-360/Test/Kohlrabi/r_284_100.jpg
+Onion White,Kohlrabi,fruits-360/Test/Kohlrabi/r_135_100.jpg
+Potato White,Kohlrabi,fruits-360/Test/Kohlrabi/r_280_100.jpg
+Potato White,Kohlrabi,fruits-360/Test/Kohlrabi/r_282_100.jpg
+Maracuja,Guava,fruits-360/Test/Guava/r_270_100.jpg
+Salak,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r_255_100.jpg
+Salak,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r_257_100.jpg
+Salak,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r_256_100.jpg
+Kohlrabi,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/0_100.jpg
+Avocado ripe,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r2_0_100.jpg
+Salak,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r_259_100.jpg
+Salak,Strawberry Wedge,fruits-360/Test/Strawberry Wedge/r_258_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_176_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_177_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_175_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_174_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_172_100.jpg
+Papaya,Pear Monster,fruits-360/Test/Pear Monster/r_173_100.jpg
+Huckleberry,Pitahaya Red,fruits-360/Test/Pitahaya Red/r_185_100.jpg
+Strawberry Wedge,Pitahaya Red,fruits-360/Test/Pitahaya Red/r_144_100.jpg
+Strawberry Wedge,Pitahaya Red,fruits-360/Test/Pitahaya Red/r_145_100.jpg
+Pear,Apple Golden 3,fruits-360/Test/Apple Golden 3/r_57_100.jpg
+Pear,Apple Golden 3,fruits-360/Test/Apple Golden 3/r_56_100.jpg
+Pear,Apple Golden 3,fruits-360/Test/Apple Golden 3/r_66_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_150_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_140_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_132_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_149_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/87_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_158_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_148_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_141_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_151_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_133_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_128_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_138_100.jpg
+Strawberry,Banana Red,fruits-360/Test/Banana Red/94_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_131_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_153_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_143_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_130_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_142_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_152_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_139_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_129_100.jpg
+Strawberry,Banana Red,fruits-360/Test/Banana Red/95_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_135_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_157_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_147_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/88_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_134_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_146_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_156_100.jpg
+Strawberry,Banana Red,fruits-360/Test/Banana Red/91_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_154_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_144_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_136_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_126_100.jpg
+Strawberry,Banana Red,fruits-360/Test/Banana Red/93_100.jpg
+Strawberry,Banana Red,fruits-360/Test/Banana Red/92_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_145_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_155_100.jpg
+Banana,Banana Red,fruits-360/Test/Banana Red/r_127_100.jpg
+Banana Lady Finger,Banana Red,fruits-360/Test/Banana Red/r_137_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_47_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_57_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_61_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_60_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_46_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_36_100.jpg
+Pear Williams,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_44_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_37_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_55_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_45_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_59_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_49_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_66_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_40_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_50_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_51_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_41_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_48_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_58_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_67_100.jpg
+Pear Williams,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_43_100.jpg
+Redcurrant,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_53_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_38_100.jpg
+Cherry 2,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_39_100.jpg
+Apple Red Delicious,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_52_100.jpg
+Pear Williams,Cherry Rainier,fruits-360/Test/Cherry Rainier/r_42_100.jpg
+Potato Red Washed,Chestnut,fruits-360/Test/Chestnut/r2_107_100.jpg
+Hazelnut,Chestnut,fruits-360/Test/Chestnut/r_200_100.jpg
+Potato Red Washed,Chestnut,fruits-360/Test/Chestnut/r2_106_100.jpg
+Hazelnut,Chestnut,fruits-360/Test/Chestnut/r_198_100.jpg
+Hazelnut,Chestnut,fruits-360/Test/Chestnut/r_199_100.jpg
+Potato Red Washed,Chestnut,fruits-360/Test/Chestnut/r2_109_100.jpg
+Peach Flat,Chestnut,fruits-360/Test/Chestnut/r2_110_100.jpg
+Peach Flat,Chestnut,fruits-360/Test/Chestnut/r2_111_100.jpg
+Potato Red Washed,Chestnut,fruits-360/Test/Chestnut/r2_108_100.jpg
+Hazelnut,Chestnut,fruits-360/Test/Chestnut/r_196_100.jpg
+Hazelnut,Chestnut,fruits-360/Test/Chestnut/r_197_100.jpg
+Potato Red Washed,Chestnut,fruits-360/Test/Chestnut/r2_112_100.jpg
+Chestnut,Plum,fruits-360/Test/Plum/r_68_100.jpg
+Chestnut,Plum,fruits-360/Test/Plum/r_70_100.jpg
+Chestnut,Plum,fruits-360/Test/Plum/r_69_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/55_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/63_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/62_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/54_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/60_100.jpg
+Apple Braeburn,Nectarine,fruits-360/Test/Nectarine/69_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/56_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/68_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/57_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/61_100.jpg
+Apple Red 1,Nectarine,fruits-360/Test/Nectarine/r_76_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/64_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/52_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/53_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/65_100.jpg
+Apple Red 1,Nectarine,fruits-360/Test/Nectarine/r_77_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/51_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/58_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/67_100.jpg
+Apple Red 1,Nectarine,fruits-360/Test/Nectarine/r_75_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/59_100.jpg
+Apple Red 1,Nectarine,fruits-360/Test/Nectarine/r_74_100.jpg
+Peach,Nectarine,fruits-360/Test/Nectarine/66_100.jpg
+Physalis with Husk,Cantaloupe 2,fruits-360/Test/Cantaloupe 2/0_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_122_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_123_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_121_100.jpg
+Onion Red Peeled,Mangostan,fruits-360/Test/Mangostan/r_120_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_125_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_124_100.jpg
+Onion Red Peeled,Mangostan,fruits-360/Test/Mangostan/r_119_100.jpg
+Onion Red,Mangostan,fruits-360/Test/Mangostan/r_126_100.jpg
+Onion Red Peeled,Mangostan,fruits-360/Test/Mangostan/r_118_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_3_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_7_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_191_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r2_11_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r2_10_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_2_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_6_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r2_12_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_191_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_0_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_188_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_4_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_189_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_1_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_5_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_190_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r2_9_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_0_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r_4_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_1_100.jpg
+Pitahaya Red,Onion White,fruits-360/Test/Onion White/r_5_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_8_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_3_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_186_100.jpg
+Physalis with Husk,Onion White,fruits-360/Test/Onion White/r_187_100.jpg
+Pear Red,Onion White,fruits-360/Test/Onion White/r2_2_100.jpg
+Onion White,Potato White,fruits-360/Test/Potato White/r2_80_100.jpg
+Cocos,Potato White,fruits-360/Test/Potato White/r2_75_100.jpg
+Onion White,Potato White,fruits-360/Test/Potato White/r2_77_100.jpg
+Kiwi,Cocos,fruits-360/Test/Cocos/r_101_100.jpg
+Avocado,Avocado ripe,fruits-360/Test/Avocado ripe/r_191_100.jpg
+Avocado,Avocado ripe,fruits-360/Test/Avocado ripe/r_190_100.jpg
+Avocado,Avocado ripe,fruits-360/Test/Avocado ripe/r_91_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_272_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_262_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_263_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_273_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_271_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_261_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_268_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_269_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_260_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_270_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_275_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_265_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_264_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_266_100.jpg
+Tomato 3,Tomato 1,fruits-360/Test/Tomato 1/r_267_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_78_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_79_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_72_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_76_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_81_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_75_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_80_100.jpg
+Pear,Apple Granny Smith,fruits-360/Test/Apple Granny Smith/r_74_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_78_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_57_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_61_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_70_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_60_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_79_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_56_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_62_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_54_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_55_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_63_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_49_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_66_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_76_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_50_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_51_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_48_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_58_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_77_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_53_100.jpg
+Apple Pink Lady,Apricot,fruits-360/Test/Apricot/r_75_100.jpg
+Pepper Yellow,Apricot,fruits-360/Test/Apricot/r_52_100.jpg
+Apricot,Apple Pink Lady,fruits-360/Test/Apple Pink Lady/r_233_100.jpg
+Kumquats,Pomelo Sweetie,fruits-360/Test/Pomelo Sweetie/r2_148_100.jpg
+Pineapple Mini,Apple Golden 1,fruits-360/Test/Apple Golden 1/56_100.jpg
+Salak,Banana,fruits-360/Test/Banana/318_100.jpg
+Salak,Banana,fruits-360/Test/Banana/26_100.jpg
+Salak,Banana,fruits-360/Test/Banana/166_100.jpg
+Salak,Banana,fruits-360/Test/Banana/312_100.jpg
+Salak,Banana,fruits-360/Test/Banana/167_100.jpg
+Cactus fruit,Banana,fruits-360/Test/Banana/29_100.jpg
+Salak,Banana,fruits-360/Test/Banana/30_100.jpg
+Granadilla,Banana,fruits-360/Test/Banana/317_100.jpg
+Granadilla,Banana,fruits-360/Test/Banana/31_100.jpg
+Salak,Banana,fruits-360/Test/Banana/28_100.jpg
+Salak,Banana,fruits-360/Test/Banana/314_100.jpg
+Cactus fruit,Banana,fruits-360/Test/Banana/23_100.jpg
+Salak,Banana,fruits-360/Test/Banana/168_100.jpg
+Cactus fruit,Banana,fruits-360/Test/Banana/315_100.jpg
+Salak,Banana,fruits-360/Test/Banana/32_100.jpg
+Apple Golden 3,Apple Red 2,fruits-360/Test/Apple Red 2/r_78_100.jpg
+Apple Braeburn,Apple Red 2,fruits-360/Test/Apple Red 2/r_68_100.jpg
+Apple Braeburn,Apple Red 2,fruits-360/Test/Apple Red 2/r_71_100.jpg
+Apple Braeburn,Apple Red 2,fruits-360/Test/Apple Red 2/r_70_100.jpg
+Apple Golden 3,Apple Red 2,fruits-360/Test/Apple Red 2/r_79_100.jpg
+Apple Braeburn,Apple Red 2,fruits-360/Test/Apple Red 2/r_73_100.jpg
+Apple Golden 3,Apple Red 2,fruits-360/Test/Apple Red 2/r_77_100.jpg
+Apple Braeburn,Apple Red 2,fruits-360/Test/Apple Red 2/r_74_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_236_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_226_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_254_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_244_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_219_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_227_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_237_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_255_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_218_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_247_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_235_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_225_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_246_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_224_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_234_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_228_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_238_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_253_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_231_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_221_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_242_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_220_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_230_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_239_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_229_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_232_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_222_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_240_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_249_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_248_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_223_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_233_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_241_100.jpg
+Grape White,Pepino,fruits-360/Test/Pepino/r_251_100.jpg
+Maracuja,Tangelo,fruits-360/Test/Tangelo/r_175_100.jpg
+Maracuja,Tangelo,fruits-360/Test/Tangelo/r_171_100.jpg
+Maracuja,Tangelo,fruits-360/Test/Tangelo/r_178_100.jpg
+Maracuja,Tangelo,fruits-360/Test/Tangelo/r_179_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_85_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_84_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_86_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_87_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_82_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_92_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_83_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_88_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_81_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_91_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_90_100.jpg
+Granadilla,Pear Abate,fruits-360/Test/Pear Abate/r_89_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_78_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_68_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_57_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_61_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_71_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_85_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_70_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_60_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_84_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_69_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_79_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_56_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_62_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_72_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_86_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_54_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_55_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_73_100.jpg
+Kiwi,Peach,fruits-360/Test/Peach/r_63_100.jpg
+Kiwi,Peach,fruits-360/Test/Peach/r_87_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_59_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_66_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_76_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_48_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_58_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_83_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_77_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_67_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_53_100.jpg
+Kiwi,Peach,fruits-360/Test/Peach/r_88_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_81_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_65_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_75_100.jpg
+Kiwi,Peach,fruits-360/Test/Peach/r_90_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_80_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_74_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_64_100.jpg
+Nectarine,Peach,fruits-360/Test/Peach/r_89_100.jpg

@@ -1,0 +1,25 @@
+p.center {
+  text-align: center;   
+}
+
+p.small {
+  font-size: 70%;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.divider {
+    background-color: seagreen;
+    color: black;
+    border: solid 2px black;
+    height: 5px;
+    width: auto;
+}    
+
+#top-section {
+    background-color: darkseagreen;
+}

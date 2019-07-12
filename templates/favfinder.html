@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Fruit Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/spacelab/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body onload="">
+  <div class="container">
+    <div class="row" id='top-section'>
+      <div class="col-md-6">
+        <div id="main-title" class="text-center">
+          <h1>Fruit & Veggie Finder</h1>
+          <h4>Rank fruits & veggies by KNN distance</h4>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <aside class="filters">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <form>
+                <div class="form-group">
+                  <ul class="list-group" id="filters">
+                    <li class="filter list-group-item">
+                      <label for="date">Enter a number from 0 to 544</label>
+                      <input class="form-control" id="fruit_choice" type="text" placeholder="">
+                    </li>
+                  </ul>
+                </div>
+                <button id="filter-btn" type="submit" class="btn btn-info">Search</button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>  
+    </div>
+    <div><hr class='divider'></div>
+      <div id='results'></div> <!-- #results section -->
+    <footer class="footer">
+      <div><hr class='divider'></div>
+    </footer>
+  </div>  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="/static/js/relatedapp.js"></script>
+</body>
+
+</html>

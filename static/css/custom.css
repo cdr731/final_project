@@ -1,0 +1,60 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background-image: url(https://m.media-amazon.com/images/S/abs-image-upload-na/d/AmazonStores/ATVPDKIKX0DER/6f770cd74d77eab31f77e6f1c2a285a0.w3000.h600._CR0%2C0%2C3000%2C600_SX1500_.jpg);
+	color: rgb(224, 235, 234);
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: goldenrod;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+/* added shit */
+
+p.center {
+	text-align: center;   
+  }
+  
+  p.small {
+	font-size: 70%;
+  }
+  
+  .center-block {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+   }
+  
+  .divider {
+	  background-color: seagreen;
+	  color: black;
+	  border: solid 2px black;
+	  height: 5px;
+	  width: auto;
+  }    
+  
+  #top-section {
+	  background-color: darkseagreen;
+  }
